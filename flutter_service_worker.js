@@ -4,14 +4,14 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "c7ac56dd58b0d3a77ffe333c1e0290d1",
-"index.html": "0634afde071fc7e9d74e1ec5e817a8a1",
-"/": "0634afde071fc7e9d74e1ec5e817a8a1",
-"main.dart.js": "cbf30053929ea0cd84ccec74b74c4484",
+"index.html": "066dfa9719f58a0de18f1e634ee557da",
+"/": "066dfa9719f58a0de18f1e634ee557da",
+"main.dart.js": "48ca34d194afe73d711c424dc901ca75",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "42af480d5d1e57317f56439e101e5aff",
-"assets/AssetManifest.json": "5524387c0c640e53745d334bcd1d71c9",
+"assets/AssetManifest.json": "50dc56b5cebe34229a8cec40fc54dfec",
 "assets/NOTICES": "0fbbe843e8bee4b1df3dc8c8c335c7f0",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -28,13 +28,18 @@ const RESOURCES = {
 "assets/assets/patientIcon.png": "24c9200fc1e3e47f2661c27288398b12",
 "assets/assets/email.png": "87031900cda748538bc0238636f323c8",
 "assets/assets/no-internet.png": "cbac280d4be6a6eb691e0eee61801e2b",
+"assets/assets/rxFormatImage2.png": "82696f675072c5d928e50da0f8af49f5",
 "assets/assets/doctorAppIcon.jpeg": "1c898aff1139bd78291362786d8733eb",
+"assets/assets/rxFormat1.png": "767abe75410d3dbdd0edd4ec657854c9",
+"assets/assets/app-icon.png": "6afb17cf33eb02b3e0b2a7d52340d76b",
 "assets/assets/covid.png": "6e645a3ef2b8c2cc1853edbecc761f89",
 "assets/assets/dr.png": "e9dc7a5ee9caf116055fea358aed01dc",
 "assets/assets/newIcon.svg": "e1287a4e1e463985def49754ef309865",
 "assets/assets/translations/en.json": "a079de5858c251d0a1eedc806636a06b",
+"assets/assets/translations/rxFormat2.png": "f4ef1a83522f86f7b483d6bf09ceacea",
 "assets/assets/translations/hi.json": "d4b6580454c10e8e8beff04e4737d61d",
-"assets/assets/patientAppIcon.svg": "4112ecaf0f6022f9414079ab55247916"
+"assets/assets/patientAppIcon.svg": "4112ecaf0f6022f9414079ab55247916",
+"assets/assets/app-icon-transparent.png": "2dcefeaad2ecf19c08485940b4991c65"
 };
 
 // The application shell files that are downloaded before a service worker can
